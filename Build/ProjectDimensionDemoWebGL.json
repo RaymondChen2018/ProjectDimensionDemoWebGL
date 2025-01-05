@@ -1,6 +1,6 @@
 {
 "companyName": "DefaultCompany",
-"productName": "ProjectHaven",
+"productName": "ProjectDimension",
 "productVersion": "0.1",
 "dataUrl": "ProjectDimensionDemoWebGL.data.unityweb",
 "wasmCodeUrl": "ProjectDimensionDemoWebGL.wasm.code.unityweb",
